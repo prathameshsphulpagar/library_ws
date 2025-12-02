@@ -1,13 +1,17 @@
 [submodule "src/apriltag_msgs"]
-	path = src/apriltag_msgs
-	url = git@github.com:christianrauch/apriltag_msgs.git
+    path = src/apriltag_msgs
+    url = https://github.com/christianrauch/apriltag_msgs.git
+
 [submodule "src/opennav_docking"]
-	path = src/opennav_docking
-	url = https://github.com/open-navigation/opennav_docking.git
-	branch = humble
+    path = src/opennav_docking
+    url = https://github.com/open-navigation/opennav_docking.git
+    branch = humble
+
 [submodule "src/apriltag_ros"]
-	path = src/apriltag_ros
-	url = git@github.com:christianrauch/apriltag_ros.git
+    path = src/apriltag_ros
+    url = https://github.com/christianrauch/apriltag_ros.git
+
 [submodule "src/apriltag"]
-	path = src/apriltag
-	url = git@github.com:AprilRobotics/apriltag.git
+    path = src/apriltag
+    url = https://github.com/AprilRobotics/apriltag.git
+

@@ -15,3 +15,6 @@
     path = src/apriltag
     url = https://github.com/AprilRobotics/apriltag.git
 
+[submodule "universal_lib/BehaviorTree.CPP"]
+	path = universal_lib/BehaviorTree.CPP
+	url = https://github.com/BehaviorTree/BehaviorTree.CPP.git
